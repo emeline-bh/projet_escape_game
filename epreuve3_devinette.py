@@ -1,4 +1,4 @@
-'''Description de l'épreuve de la devinette
+'''Description de l'épreuve de la devinette :Emeline 
 
         affichage d'une devinette
         réponse à rentrer soi-même 
@@ -8,3 +8,4 @@
             si réussi 
                 ouverture de la malle
 '''
+
