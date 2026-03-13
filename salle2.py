@@ -16,15 +16,13 @@ salle2.minsize(300,200)
 #salle2.iconbitmap("logo.ico")
 
 salle2.config(background="#c6a7da")
-
+salle2.grid_columnconfigure((0,1,2), minsize=20 ,weight= 1)
+salle2.grid_rowconfigure((0,1,2),minsize=20, weight=1 )
 #================================================================ EPREUVE DEVINETTE=====================================================
 
 #bouton Epreuve devinette  
 button = Button (salle2,text = "devine")
-button.pack(side=RIGHT)
-button.pack(side = BOTTOM, fill="x")
-
-
+button.grid(row=6, column=6)
 
 cadre = Frame (salle2, bg= "#617e9d", bd=4,relief=SUNKEN)
 
