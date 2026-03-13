@@ -32,10 +32,14 @@ cadre = Frame (salle2, bg= "#617e9d", bd=4,relief=SUNKEN)
 
 
 
-#================================================================ EPREUVE =====================================================
+#================================================================ EPREUVE CLE =====================================================
 
 
+#bouton Epreuve cle 
+button = Button (salle2,text = "trouve")
+button.grid(row=5, column=5)
 
+cadre = Frame (salle2, bg= "#617e9d", bd=4,relief=SUNKEN)
 
 
 
