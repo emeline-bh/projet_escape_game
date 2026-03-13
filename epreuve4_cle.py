@@ -1,4 +1,4 @@
-'''Description de l'épreuve des clés
+'''Description de l'épreuve des clés :SOLENE
 
 
         - affichage d'une clé pendant 2 sec
