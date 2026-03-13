@@ -1,6 +1,6 @@
 """ Description: 
-    - Contient epreuves devniettes  
-    - Contient epreuves devniettes
+    - Contient epreuve devinette
+    - Contient epreuve cle
 
 """
 from tkinter import *
@@ -25,6 +25,14 @@ button = Button (salle2,text = "devine")
 button.grid(row=6, column=6)
 
 cadre = Frame (salle2, bg= "#617e9d", bd=4,relief=SUNKEN)
+
+
+
+
+
+
+
+#================================================================ EPREUVE =====================================================
 
 
 
